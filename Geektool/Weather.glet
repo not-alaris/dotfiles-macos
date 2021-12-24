@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DisplayID</key>
+	<integer>69734272</integer>
+	<key>GeekletFrame</key>
+	<string>{{1197, 730}, {179, 147}}</string>
+	<key>HasShadow</key>
+	<false/>
+	<key>Identifier</key>
+	<string>org.tynsoe.geeklet.web</string>
+	<key>Opacity</key>
+	<real>0.89942268703294836</real>
+	<key>RefreshInterval</key>
+	<integer>500</integer>
+	<key>URL</key>
+	<string>https://forecast.io/embed/#lat=25.761681&amp;lon=-80.191788&amp;name=Miami&amp;color=#fffff
+&amp;text-color=#ffff
+&amp;font=JetBrains Mono 
+</string>
+	<key>Zoom</key>
+	<real>0.56770523734714673</real>
+</dict>
+</plist>
