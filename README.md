@@ -1,4 +1,4 @@
-# My macOS dotfiles
+# My Nord themed macOS dotfiles
 ![dotfiles](https://user-images.githubusercontent.com/72212608/147364334-ec98f935-d858-4a52-872a-7547a1ffbc5d.png)
 
 # Links to some things I use:
