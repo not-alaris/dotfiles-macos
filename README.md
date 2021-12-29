@@ -14,8 +14,9 @@
 - [Geektool](https://www.tynsoe.org/geektool/) - Widget display app - ex. date, time, weather
 - [Ubersicht](https://tracesof.net/uebersicht/) -  Also used to display widgets
 - [Alfred4](https://www.alfredapp.com/) - I use it as a app launcher. Can be used for alot of stuff. 
+- If anyone has a recommendation for a better app launcher lmk.
 - [nightTab](https://github.com/zombieFox/nightTab) - My custom start page on Edge. Can be used on most browsers.
--If anyone has a recommendation for a better app launcher lmk.
+
 
 
 
