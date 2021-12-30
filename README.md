@@ -1,5 +1,6 @@
 # My Nord themed macOS dotfiles
-![screenshot](https://user-images.githubusercontent.com/72212608/147371077-2288bcc3-90cb-4a06-8f9c-14ca3b51d1df.png)
+![screenshot](https://user-images.githubusercontent.com/72212608/147758393-6eb27380-8f44-4381-9fba-9cb47052aeae.png)
+
 
 
 # Links to some things I use:
